@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int n, next;
 int sebelum = 0, sekarang = 1;
 
