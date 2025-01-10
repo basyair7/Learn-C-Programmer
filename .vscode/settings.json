@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "*.asm": "masm",
-        "stdio.h": "c"
+        "stdio.h": "c",
+		"atomic": "c",
+        "cstdint": "c",
+        "string.h": "c"
     }
 }
