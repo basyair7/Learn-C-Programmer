@@ -35,5 +35,5 @@ make
 ```
 4. **Run file Output**
 ```sh
-./latihan01
+./latihan01_out
 ```
