@@ -12,7 +12,7 @@ set(CMAKE_C_STANDARD_REQUIRED True)
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # set Executable_name
-set(EXECUTABLE_NAME latihan50)
+set(EXECUTABLE_NAME latihan71)
 
 # Source file
 file(GLOB SOURCES
